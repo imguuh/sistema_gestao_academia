@@ -1,14 +1,13 @@
 # sistema_gestao_academia
-GRUPO A - Sistema de Gestão de Academia
+GRUPO A1 – Sistema de Gestão de Academia
 Descrição: Sistema destinado ao gerenciamento de uma academia, permitindo controlar alunos, professores, exercícios e treinos.
 
-O sistema deverá permitir:
-Classes:
+O sistema deverá permitir as seguintes classes:
 * Aluno;
 * Professor;
 * Treino;
-* exercicio;
-* ficha;
+* Exercício;
+* Ficha
 
 Relacionamentos:
 * Um professor pode ter varios alunos -> associação;
@@ -24,7 +23,3 @@ Regras de negócio (implementar):
 * Não permitir que um exercício seja incluído duas vezes na mesma ficha de treino;
 * Um professor poderá ser responsável por vários alunos;
 * Ao cadastrar um exercício em um treino, deverão ser informadas as séries e repetições.
-
-alterei
-
-aaaa
